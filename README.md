@@ -1,6 +1,6 @@
 
 
-[![VincentCroft's GitHub stats](https://github-readme-stats.vercel.app/api?username=VincentCroft)](https://github.com/VincentCroft/github-readme-stats)
+[![Aurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VincentCroft)](https://github.com/VincentCroft/github-readme-stats)
 > 1. **介绍**：**CNote** 致力于打造最易懂的 C 语言入门教程，`让天下没有难学的 C 语言`
 > 2. **PDF版本** ： [**CNote** PDF 版本下载](https://pan.baidu.com/s/18FhBCx9izSP-kXPRwN1YBA)  提取码：dmqx 
 > 3. **视频教程** :  **CNote** 配套视频保姆级视频教程共计 170 节，学不会，算我输。
